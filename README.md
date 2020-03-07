@@ -1,0 +1,3 @@
+Předmět navazuje na Praktikum I, doplňuje znalosti získané v přednášce NOFY018 Elektřina a magnetismus. Praktikum nabízí vybrané experimentální úlohy z elektřiny a magnetismu. 
+Cílem předmětu je rozvíjení praktických dovedností v práci s elektrickými zařízeními, používání elektrických měřících přístrojů (multimetry, zdroje, osciloskopy, čítače, generátory) a sestavování elektrických obvodů. Rozšiřování znalostí pro zpracovávání výsledků měření a jejich prezentaci v publikační podobě. 
+https://is.cuni.cz/studium/predmety/index.php?id=19d8bd26b97f4d0b050976246634be2f&tid=&do=predmet&kod=NOFY024&skr=2019
