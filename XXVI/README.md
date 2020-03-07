@@ -4,4 +4,4 @@
 
 Měřeno: 14.14.2019
 
-Hodnocení: 
+Hodnocení: 19
